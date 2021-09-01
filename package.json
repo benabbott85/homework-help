@@ -1,0 +1,26 @@
+{
+  "name": "homework-help",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benabbott85/homework-help.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benabbott85/homework-help/issues"
+  },
+  "homepage": "https://github.com/benabbott85/homework-help#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
